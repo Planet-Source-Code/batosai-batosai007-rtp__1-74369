@@ -1,0 +1,21 @@
+{windows}\system32\winlogon.exe
+{windows}\msagent\agentsvr.exe
+{windows}\system32\services.exe
+{windows}\system32\lsass.exe
+{windows}\system32\svchost.exe
+{windows}\system32\smss.exe
+{windows}\system32\spoolsv.exe
+{windows}\system32\wscntfy.exe
+{windows}\system32\nvsvc32.exe
+{windows}\system32\csrss.exe
+{windows}\system32\wuauclt.exe
+{windows}\system32\rundll32.exe
+{windows}\system32\dllhost.exe
+{windows}\system32\ctfmon.exe
+{windows}\system32\dumprep.exe
+{windows}\system32\dwwin.exe
+c:\program files\hypertechnologies\deep freeze\dfservex.exe
+c:\program files\hypertechnologies\deep freeze\_$df\frzstate.exe
+{windows}\system32\imapi.exe
+{windows}\system32\userinit.exe
+

@@ -1,0 +1,114 @@
+08/05/2007 16:55 000: [] Virus found: Wayang in K:\batosai\FolderCopy\batosai.exe
+08/05/2007 16:55 000: [] Virus found: Wayang in K:\batosai\FolderCopy\batosai.exe
+08/05/2007 16:55 000: [] Virus found: tesbatosai in K:\batosai\1tapa.exe
+08/05/2007 17:42 000: [] Virus found: Indomodel in E:\Black projek\allvirus\TEKNIK HACKING.EXE
+08/05/2007 17:42 000: [] Virus found: Indomodel in E:\Black projek\allvirus\TEKNIK HACKING.EXE
+08/05/2007 18:39 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/06/2007 19:08 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/06/2007 19:09 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/06/2007 19:10 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/06/2007 19:16 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/06/2007 19:16 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/06/2007 19:16 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/06/2007 19:16 000: [] Virus found: tesbatosai in E:\vb proyek\new anti\baru.exe
+08/06/2007 19:34 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/06/2007 19:35 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/06/2007 19:35 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/06/2007 19:45 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/06/2007 19:46 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/06/2007 19:46 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/06/2007 19:46 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/06/2007 19:47 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/06/2007 19:47 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/06/2007 20:12 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/06/2007 20:20 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/06/2007 20:24 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/06/2007 20:31 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/06/2007 20:36 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/07/2007 08:05 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/07/2007 08:07 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/07/2007 08:08 000: [] Virus found: tesbatosai in K:\\batosai.exe
+08/07/2007 08:08 000: [] Virus found: tesbatosai in K:\\batosai.exe
+08/07/2007 08:09 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/07/2007 18:47 000: [] Virus found: tesbatosai in E:\\ScanDirectoriesDemo.exe
+08/07/2007 18:47 000: [] Virus found: tesbatosai in E:\\ScanDirectoriesDemo.exe
+08/07/2007 18:47 000: [] Virus found: tesbatosai in E:\\ScanDirectoriesDemo.exe
+08/07/2007 18:47 000: [] Virus found: tesbatosai in E:\\ScanDirectoriesDemo.exe
+08/07/2007 18:47 000: [] Virus found: tesbatosai in E:\\ScanDirectoriesDemo.exe
+08/07/2007 18:47 000: [] Virus found: tesbatosai in E:\\ScanDirectoriesDemo.exe
+08/07/2007 18:48 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/07/2007 18:48 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/07/2007 18:50 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/07/2007 18:50 000: [] Virus found: tesbatosai in E:\\ScanDirectoriesDemo.exe
+08/07/2007 18:50 000: [] Virus found: tesbatosai in E:\\ScanDirectoriesDemo.exe
+08/07/2007 18:50 000: [] Virus found: tesbatosai in E:\\ScanDirectoriesDemo.exe
+08/07/2007 18:53 000: [] Virus found: tesbatosai in E:\\ScanDirectoriesDemo.exe
+08/07/2007 18:53 000: [] Virus found: tesbatosai in E:\\ScanDirectoriesDemo.exe
+08/07/2007 19:01 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/07/2007 19:01 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/07/2007 19:05 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/07/2007 19:32 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/07/2007 19:34 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/07/2007 20:01 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/07/2007 20:01 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/07/2007 20:01 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/07/2007 20:02 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/07/2007 20:02 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/08/2007 09:19 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/08/2007 09:19 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/08/2007 09:19 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/08/2007 09:19 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/08/2007 09:19 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/08/2007 09:19 000: [] Virus found: tesbatosai in E:\vb proyek\ScanDirectoriesDemo.exe
+08/08/2007 10:46 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/08/2007 10:46 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/08/2007 10:49 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/08/2007 19:21 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/08/2007 19:21 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/11/2007 19:16 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/11/2007 20:13 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/11/2007 20:36 000: [] Virus found: tesbatosai in e:\vb proyek\batosai007\batosai.exe
+08/11/2007 22:20 000: [] Virus found: Wayang in K:\batosai\FolderCopy\batosai.exe
+08/11/2007 22:22 000: [] Virus found: Wayang in K:\batosai\FolderCopy\batosai.exe
+08/11/2007 22:23 000: [] Virus found: tesbatosai in E:\\ScanDirectoriesDemo.exe
+08/11/2007 22:23 000: [] Virus found: tesbatosai in E:\\ScanDirectoriesDemo.exe
+08/11/2007 22:24 000: [] Virus found: Indomodel in E:\Black projek\allvirus\TEKNIK HACKING.EXE
+08/11/2007 22:42 000: [] Virus found: Indomodel in E:\Black projek\allvirus\TEKNIK HACKING.EXE
+08/11/2007 22:43 000: [] Virus found: Indomodel in E:\vb proyek\rtp\now_batosai\Tahanan\TEKNIK HACKING.EX
+08/11/2007 22:43 000: [] Virus found: Indomodel in E:\vb proyek\rtp\now_batosai\Tahanan\TEKNIK HACKING.EX
+08/11/2007 22:43 000: [] Virus found: Indomodel in E:\vb proyek\rtp\now_batosai\Tahanan\TEKNIK HACKING.EX
+08/11/2007 22:47 000: [] Virus found: brontokvb in E:\Black projek\allvirus\Gartex.exe
+08/11/2007 22:48 000: [] Virus found: brontokvb in E:\vb proyek\rtp\now_batosai\Tahanan\Gartex.exe
+08/11/2007 22:48 000: [] Virus found: brontokvb in E:\vb proyek\rtp\now_batosai\Tahanan\Gartex.exe
+08/11/2007 22:48 000: [] Virus found: brontokvb in E:\vb proyek\rtp\now_batosai\Tahanan\Gartex.exe
+08/11/2007 22:48 000: [] Virus found: brontokvb in E:\vb proyek\rtp\now_batosai\Tahanan\Gartex.exe
+08/11/2007 22:49 000: [] Virus found: brontokvb in E:\vb proyek\rtp\now_batosai\Tahanan\Gartex.exe
+08/11/2007 23:01 000: [] Virus found: brontokvb in E:\Black projek\allvirus\Gartex.exe
+08/11/2007 23:26 000: [] Virus found: brontokvb in E:\vb proyek\rtp\now_batosai\Tahanan\Gartex.exe
+08/11/2007 23:34 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/11/2007 23:34 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/11/2007 23:34 000: [] Virus found: brontokvb in E:\Black projek\allvirus\Gartex.exe
+08/11/2007 23:35 000: [] Virus found: brontokvb in E:\vb proyek\rtp\now_batosai\Tahanan\Gartex.exe
+08/13/2007 18:58 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/13/2007 18:58 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/13/2007 18:58 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/13/2007 18:58 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/15/2007 21:07 000: [] Virus found: Indomodel in C:\\te.exe
+08/15/2007 21:07 000: [] Virus found: tesbatosai in C:\kav\ScanDirectoriesDemo.exe
+08/15/2007 21:07 000: [] Virus found: tesbatosai in C:\kav\ScanDirectoriesDemo.exe
+08/15/2007 21:08 000: [] Virus found: Indomodel in C:\\ddfgdf.exe
+08/15/2007 21:11 000: [] Virus found: tesbatosai in E:\\ScanDirectoriesDemo.exe
+08/15/2007 21:12 000: [] Virus found: tesbatosai in C:\\abc.exe
+08/16/2007 09:32 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/16/2007 09:32 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/16/2007 09:32 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/16/2007 09:32 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/16/2007 09:32 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/16/2007 09:32 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/16/2007 09:32 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/16/2007 09:32 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/16/2007 09:32 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+08/16/2007 09:33 000: [] Virus found: tesbatosai in E:\vb proyek\batosai007\batosai.exe
+06/24/2010 13:03 000: [] Virus found: tesbatosai in E:\aLL@bout_visual basik\vb proyek\new anti\baru.exe
+06/24/2010 13:03 000: [] Virus found: tesbatosai in E:\aLL@bout_visual basik\vb proyek\new anti\baru.exe
+06/24/2010 13:03 000: [] Virus found: tesbatosai in E:\aLL@bout_visual basik\vb proyek\new anti\baru.exe
